@@ -1,4 +1,4 @@
-var V = 'l235-1.1.1-vp1023-k3m-co1';
+var V = 'l235-1.1.2-vp1023-gx1103-k3m-co1';
 var FILES = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './apple-touch-icon.png', './lessons.json', './coread.js', './peerjs.min.js'];
 self.addEventListener('install', function (e) {
   self.skipWaiting();
